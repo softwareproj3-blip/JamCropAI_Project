@@ -73,6 +73,9 @@ The application requires Supabase environment variables to be configured. The sy
 ## Security & Best Practices
 
 - **Input Validation**: All image uploads are validated for format and size
+
+## Demo
+https://github.com/softwareproj3-blip/JamCropAI_Project/blob/main/JamCrop%20AI%20Demo%20-%20Made%20with%20Clipchamp%20(1).mp4
 - **Rate Limiting**: Maximum 10 scans per 5 minutes per session
 - **Data Privacy**: IP addresses are hashed before storage
 - **RLS Enabled**: Row Level Security on all database tables
